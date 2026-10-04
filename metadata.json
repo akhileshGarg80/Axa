@@ -1,0 +1,8 @@
+{
+  "name": "Catbox Pocket Studio",
+  "description": "Mobile-first media uploader and vault powered by Catbox.moe and Litterbox for instant image and video hosting, album creation, and link sharing.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
